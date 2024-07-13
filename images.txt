@@ -1,3 +1,4 @@
 nginx
 golang:1.20
 alpine:3.18
+kubernetesui/dashboard:v2.7.0
